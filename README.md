@@ -1,2 +1,0 @@
-# saga
-git option
